@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ferasawadi a senior software engineer
-- 👀 I’m interested in Cloud, and DevOp
-- 🌱 I’m currently learning RUST
+- 👋 Hi, I’m @ferasawadi Passionate Senior Cloud engineer
+- 👀 I’m interested in Cloud, DevOps, and Automation.
+- 🌱 I’m currently learning RUST.
 - 💞️ I’m looking to collaborate on Open Source Project for RUST
-- 📫 reach me via Email: ferasawady@gmail.com, or phone +905348854120
+- 📫 reach me via Email: ferasawady@gmail.com, or phone +971569933891
 
 <!---
 ferasawadi/ferasawadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

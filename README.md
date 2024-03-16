@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @ferasawadi Passionate Senior Cloud engineer
+- 👋 Hi, I’m @ferasawadi Passionate Senior Cloud engineer, with over 10+ years in the cloud, AWS Certified.
 - 👀 I’m interested in Cloud, DevOps, and Automation.
 - 🌱 I’m currently learning RUST.
 - 💞️ I’m looking to collaborate on Open Source Project for RUST
-- 📫 reach me via Email: ferasawady@gmail.com, or phone +971569933891
+- 📫 reach me via Email: ferasawady@gmail.com, or phone +97150507502506
+- Check my website for services here: https://yafa.dev
+- 
 
 <!---
 ferasawadi/ferasawadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
